@@ -19,7 +19,9 @@ class CoolUtil
 	public static var defaultDifficulties:Array<String> = [
 		'Easy',
 		'Normal',
-		'Hard'
+		'Hard',
+		'Crazy'
+		
 	];
 	public static var defaultDifficulty:String = 'Normal'; //The chart that has no suffix and starting difficulty on Freeplay/Story Mode
 
@@ -136,3 +138,15 @@ class CoolUtil
 		#end
 	}
 }
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
